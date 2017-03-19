@@ -11,7 +11,7 @@ namespace SLMM
             int width, length;                 
             
             if (args.Length == 2 && int.TryParse(args[0], out width) 
-                && int.TryParse(args[0], out length))
+                && int.TryParse(args[1], out length))
             {
                 Console.WriteLine($"Dimensions of the garden set from arguments: [width, length] = ({width}, {length})");
             }
