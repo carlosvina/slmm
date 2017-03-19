@@ -1,4 +1,4 @@
-#### SLMM
+## SLMM
 
 ### 1 - Instructions and requirements to run the application
 
@@ -19,7 +19,7 @@ NUnit3 framework for unit testing was used. Nuget should automatically download 
 
 
 
-### Controls
+### 3 - Controls
 
 * Arrow keys (Up, Left, Right, Down) will send Move, TurnLeft, TurnRight, Stop commands.
 * Esc key will send Stop command.
